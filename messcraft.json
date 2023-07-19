@@ -1,0 +1,17 @@
+{
+  "name": "Messcraft",
+  "icon": "https://example.com/minecraft.png",
+  "type": "game",
+  "data": {
+    "type": "IFrame",
+    "url": "https://mess.eu.org/web/",
+    "gallery": [
+      "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
+      "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
+      "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
+    ],
+    "desc": "Minecraft is a sandbox construction video game ...",
+    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.",
+    "invert": true
+  }
+}
